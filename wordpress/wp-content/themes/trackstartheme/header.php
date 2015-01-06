@@ -14,7 +14,7 @@
     </div>
         <nav>
             <ul>
-                <li><a href="#">TEST IT</a></li>
+                <li><a href="http://localhost:4567/wordpress/?page_id=12">TEST IT</a></li>
                 <li><a href="#">BUY IT</a></li>
                 <li><a href=" http://localhost:4567/wordpress/?page_id=7">TRUST US</a></li>
             </ul>  
