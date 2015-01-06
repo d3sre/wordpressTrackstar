@@ -7,6 +7,7 @@ body { text-align: center; }
 #footer { border: 2px #a2a2a2 solid; }
 .title { font-size: 11pt; font-family: verdana; font-weight: bold; }
 
+h3 { color: pink; }
 nav {
         float: right;
         width: 50%;
